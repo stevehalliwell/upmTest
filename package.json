@@ -1,0 +1,16 @@
+{
+  "name": "com.stevehalliwell.umptest",
+  "version": "0.1.0",
+  "keywords": [],
+  "author": {},
+  "displayName": "umptest",
+  "unity": "2019.3",
+  "description": "a test of embedded project workflow with github ci to create ump branch",
+  "samples": [
+    {
+      "displayName": "Sample Name 1",
+      "description": "Description for sample 1",
+      "path": "Samples~/Sample Folder 1"
+    }
+  ]
+}
